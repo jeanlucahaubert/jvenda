@@ -4,5 +4,11 @@
   <title>Cadastro de clientes</title>
  </head>
  <body>
-  <h1>Bem vindo ao projeto JVendas
+  <h1>Bem vindo ao projeto JVendas</h1>
+  <div id="container">
+   <form>
+	<div class="form-group">
+		<label>nome</label>
+		<input
+ </body>
 </html>
